@@ -33,7 +33,7 @@ nav {
   top: 0;
   padding: 0 5%;
   height: 100px;
-  background-color: var(--primary-color);
+  background-color: white;
 }
 nav .logo {
   float: left;
