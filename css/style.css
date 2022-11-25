@@ -33,6 +33,7 @@ nav {
   top: 0;
   padding: 0 5%;
   height: 100px;
+  overflow-y: hidden;
   background-color: white;
 }
 nav .logo {
